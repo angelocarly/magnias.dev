@@ -1,1 +1,3 @@
-# AGW
+# Magnias.dev
+
+My old portfolio
